@@ -1,7 +1,7 @@
 # Vrinda-Store-Data-Analysis
 
 The above visualization is done in Excel. 
-After initial analysis, cleaning processing, and in-depth analysis, I find out the below details:
+After initial analysis, cleaning, processing, and in-depth analysis, I find out the below details:
 
 Revenue vs Quantity (Bar and Line Chart): This chart displays the monthly quantity of products sold and the corresponding revenue generated. It shows fluctuations in both quantity and revenue over the year, with peaks in March and a decline towards the end of the year.
 
